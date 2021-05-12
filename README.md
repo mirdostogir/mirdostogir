@@ -19,5 +19,22 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirdostogir&show_icons=true&theme=algolia)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirdostogir&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Connect with me:
+
+[<img align="left" alt="d-coders | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="d-coders | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="d-coders | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+
+
+
+[twitter]: https://twitter.com/DostogirMir
+[instagram]: https://www.instagram.com/mirdostogir/
+[linkedin]:https://www.linkedin.com/in/mir-dostogir-ahmed-5272611b2/
