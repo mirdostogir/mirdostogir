@@ -1,4 +1,4 @@
-### Hi there, I'm Mir Dostogir Ahmed - aka [d-coders][website] 👋
+### Hi there, I'm Mir Dostogir Ahmed - [![Website](https://mirdostogir.me/)](https://mirdostogir.me/) 👋
 
 
 ## I'm a Software Developer, and Teacher!!
@@ -10,7 +10,7 @@ Experienced Software Engineer with a demonstrated history of working in the mana
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...[![Website](https://www.luminouslabsbd.com/images/logo2_white.png)](https://www.luminouslabsbd.com/)
-- 🌱 I’m currently learning ... https://nuxtjs.org/
+- 🌱 I’m currently learning ... MERN Stack
 - 👯 I’m looking to collaboratewith other Developer.
 - 🤔 I’m looking for help with others.
 - 💬 Ask me about ...
